@@ -1,0 +1,12 @@
+title: "Imrann's Portfolio"
+description: "Personal portfolio website with my projects and interests"
+author: "Imrann Aseervatham"
+theme: minima
+
+markdown: kramdown
+permalink: /:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
