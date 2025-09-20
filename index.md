@@ -31,8 +31,8 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 
 ## 🔗 Link to my social profile
 
-- ▶️YouTube: https://www.youtube.com/@Imrann-v4o
-- LinkedIn: https://www.linkedin.com/in/imrann-aseervatham-9965a4319/
+- ▶️YouTube: [@Imrann-v40](https://www.youtube.com/@Imrann-v4o)
+- LinkedIn: [imrann-aseervatham](https://www.linkedin.com/in/imrann-aseervatham-9965a4319/)
 
 ---
 
