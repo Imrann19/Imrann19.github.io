@@ -12,7 +12,7 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 
 ---
 
-## 🚀 My Projects
+## 🚀 My GitHub Projects
 
 - [Portfolio Website](https://github.com/Imrann19/portfolio)
 - [Rust: Game Higher or Lower](https://github.com/Imrann19/Rust-Game-Higher-or-Lower)
@@ -25,6 +25,14 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 - [Predicting the Sum of Two Numbers with TensorFlow](https://github.com/Imrann19/Predicting-the-sum-of-Two-Numbers-with-Tensorflow)
 - [Reinforcement Learning in Gridworld with Q-learning](https://github.com/Imrann19/Reinforcement-Learning-in-Gridworld-with-Q-learning)
 - [Linear Prediction with TensorFlow](https://github.com/Imrann19/Linear-Prediction-with-TensorFlow)
+- [Flappy-Bird_Python](https://github.com/Imrann19/Flappy-Bird_Python)
+
+---
+
+## 🔗 Link to my social profile
+
+- ▶️YouTube: https://www.youtube.com/@Imrann-v4o
+- LinkedIn: https://www.linkedin.com/in/imrann-aseervatham-9965a4319/
 
 ---
 
