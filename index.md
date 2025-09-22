@@ -12,27 +12,11 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 
 ---
 
-## 🚀 My GitHub Projects
-
-- [Portfolio ](https://github.com/Imrann19/Imrann19.github.io)
-- [Rust: Game Higher or Lower](https://github.com/Imrann19/Rust-Game-Higher-or-Lower)
-- [Mandelbrot Set Fractal in Python](https://github.com/Imrann19/Mandelbrot-Set-Fractal-in-Python)
-- [MNIST Number Classification with TensorFlow](https://github.com/Imrann19/MNIST-Number-classification-with-TensorFlow)
-- [Julia Set Fractal in Python](https://github.com/Imrann19/Julia-Set-Fractal-in-Python)
-- [Python: Game Higher or Lower](https://github.com/Imrann19/Python-Game-Higher-or-Lower)
-- [French Middle School Oral Exam AI](https://github.com/Imrann19/French-Middle-School-Oral-Exam-AI)
-- [Star Battle](https://github.com/Imrann19/star_battle)
-- [Predicting the Sum of Two Numbers with TensorFlow](https://github.com/Imrann19/Predicting-the-sum-of-Two-Numbers-with-Tensorflow)
-- [Reinforcement Learning in Gridworld with Q-learning](https://github.com/Imrann19/Reinforcement-Learning-in-Gridworld-with-Q-learning)
-- [Linear Prediction with TensorFlow](https://github.com/Imrann19/Linear-Prediction-with-TensorFlow)
-- [Flappy-Bird_Python](https://github.com/Imrann19/Flappy-Bird_Python)
-
----
-
 ## 🔗 Link to my social profile
 
 - ▶️YouTube: [@Imrann-v40](https://www.youtube.com/@Imrann-v4o)
 - LinkedIn: [imrann-aseervatham](https://www.linkedin.com/in/imrann-aseervatham-9965a4319/)
+- 🌐 GitHub: [Imrann19](https://github.com/Imrann19)
 
 ---
 
@@ -40,8 +24,86 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 
 - 📧 e-mail adress: imrann953.as@gmail.com  
 - 📍 Location: Cergy (95000), France  
-- 🌐 GitHub: [Imrann19](https://github.com/Imrann19)
+
+---
+
+# 🚀 My Projects
+
+### Portfolio
+[GitHub](https://github.com/Imrann19/Imrann19.github.io)
+
+---
+
+### Rust: Game Higher or Lower  
+[GitHub](https://github.com/Imrann19/Rust-Game-Higher-or-Lower)  
+
+---
+
+### Python: Game Higher or Lower  
+[GitHub](https://github.com/Imrann19/Python-Game-Higher-or-Lower)  
+
+---
+
+### Mandelbrot Set Fractal in Python
+![Mandelbrot](assets/images/mandelbrot.png)  
+[GitHub](https://github.com/Imrann19/Mandelbrot-Set-Fractal-in-Python)
+[YouTube Video](https://www.youtube.com/watch?v=eYUTN04xZbY)
+
+
+---
+
+### Julia Set Fractal in Python
+![Julia](assets/images/julia.png)  
+[GitHub](https://github.com/Imrann19/Julia-Set-Fractal-in-Python)
+[YouTube Video](https://www.youtube.com/watch?v=eYUTN04xZbY)
+
+---
+
+### Star Battle
+![Star Battle](assets/images/space_game.png)  
+[GitHub](https://github.com/Imrann19/star_battle)  
+[YouTube Video](https://www.youtube.com/watch?v=W2XfgvUIgww)
+
+---
+
+### Flappy Bird (Python)
+![Flappy Bird](assets/images/flappy_bird.png)  
+[GitHub](https://github.com/Imrann19/Flappy-Bird_Python)  
+[YouTube Video](https://www.youtube.com/watch?v=WikE-csSIPU)
+
+---
+
+### MNIST Number Classification with TensorFlow  
+[GitHub](https://github.com/Imrann19/MNIST-Number-classification-with-TensorFlow)
+
+---
+
+### French Middle School Oral Exam AI
+![AI Oral](assets/images/ai_oral.png)  
+[GitHub](https://github.com/Imrann19/French-Middle-School-Oral-Exam-AI)
+
+---
+
+### Predicting the Sum of Two Numbers with TensorFlow  
+[GitHub](https://github.com/Imrann19/Predicting-the-sum-of-Two-Numbers-with-Tensorflow)
+
+---
+
+### Reinforcement Learning in Gridworld with Q-learning
+[GitHub](https://github.com/Imrann19/Reinforcement-Learning-in-Gridworld-with-Q-learning)
+
+---
+
+### Linear Prediction with TensorFlow  
+[GitHub](https://github.com/Imrann19/Linear-Prediction-with-TensorFlow)
+
+---
+
+### My First Robotic Arm
+![Robotic Arm](assets/images/robotic_arm.png)  
+[GitHub](https://github.com/Imrann19/My-First-Robotic-Arm)
 
 ---
 
 Feel free to explore my GitHub and see my projects in detail!
+
