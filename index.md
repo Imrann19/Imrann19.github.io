@@ -25,41 +25,22 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 - 📧 e-mail adress: imrann953.as@gmail.com  
 - 📍 Location: Cergy (95000), France  
 
---
+---
 
 # 🚀 My Projects
 
 ### Portfolio 
 [GitHub](https://github.com/Imrann19/Imrann19.github.io)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### Rust: Game Higher or Lower  
 [GitHub](https://github.com/Imrann19/Rust-Game-Higher-or-Lower)  
 
-
-
 ---
 
 ### Python: Game Higher or Lower  
 [GitHub](https://github.com/Imrann19/Python-Game-Higher-or-Lower)  
-
-
 
 ---
 
@@ -68,17 +49,12 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 [GitHub](https://github.com/Imrann19/Mandelbrot-Set-Fractal-in-Python)
 [YouTube Video](https://www.youtube.com/watch?v=eYUTN04xZbY)
 
-
-
 ---
 
 ### Julia Set Fractal in Python
 ![Julia](assets/images/julia.png)  
 [GitHub](https://github.com/Imrann19/Julia-Set-Fractal-in-Python)
 [YouTube Video](https://www.youtube.com/watch?v=eYUTN04xZbY)
-
-
-
 
 ---
 
@@ -87,9 +63,6 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 [GitHub](https://github.com/Imrann19/star_battle)  
 [YouTube Video](https://www.youtube.com/watch?v=W2XfgvUIgww)
 
-
-
-
 ---
 
 ### Flappy Bird (Python)
@@ -97,14 +70,10 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 [GitHub](https://github.com/Imrann19/Flappy-Bird_Python)  
 [YouTube Video](https://www.youtube.com/watch?v=WikE-csSIPU)
 
-
-
 ---
 
 ### MNIST Number Classification with TensorFlow  
 [GitHub](https://github.com/Imrann19/MNIST-Number-classification-with-TensorFlow)
-
-
 
 ---
 
@@ -112,28 +81,20 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 ![AI Oral](assets/images/ai_oral.png)  
 [GitHub](https://github.com/Imrann19/French-Middle-School-Oral-Exam-AI)
 
-
-
 ---
 
 ### Predicting the Sum of Two Numbers with TensorFlow  
 [GitHub](https://github.com/Imrann19/Predicting-the-sum-of-Two-Numbers-with-Tensorflow)
-
-
 
 ---
 
 ### Reinforcement Learning in Gridworld with Q-learning
 [GitHub](https://github.com/Imrann19/Reinforcement-Learning-in-Gridworld-with-Q-learning)
 
-
-
 ---
 
 ### Linear Prediction with TensorFlow  
 [GitHub](https://github.com/Imrann19/Linear-Prediction-with-TensorFlow)
-
-
 
 ---
 
