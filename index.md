@@ -68,7 +68,7 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 ### Flappy Bird (Python)
 ![Flappy Bird](https://github.com/Imrann19/Imrann19.github.io/blob/main/assets/images/flappy_bird.PNG?raw=true)  
 [Flappy_Bird | GitHub](https://github.com/Imrann19/Flappy-Bird_Python)  
-[Flappy_Bird | YouTube Video](https://www.youtube.com/watch?v=WikE-csSIPU)
+[Flappy_Bird | YouTube Video](https://www.youtube.com/watch?v=EzSPXnHxSMA)
 
 ---
 
