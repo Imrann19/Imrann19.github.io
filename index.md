@@ -44,6 +44,11 @@ My dream is to **join MIT** and one day work at **Microsoft** or **Google**.
 
 ---
 
+### C++: Game Higher or Lower  
+[C++: Game Higher or Lower | GitHub](https://github.com/Imrann19/Cpp-Game-Higher-or-Lower)  
+
+---
+
 ### Mandelbrot Set Fractal in Python
 ![Mandelbrot](assets/images/mandelbrot.png)  
 [Mandelbrot | GitHub](https://github.com/Imrann19/Mandelbrot-Set-Fractal-in-Python)
